@@ -1,0 +1,8 @@
+{
+  "name": "Pomodorable",
+  "app_id": "fe824abb",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
